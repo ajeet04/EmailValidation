@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmailValidation</string>
+
+    <string name="title_activity_veification">Veification</string>
+    <string name="dummy_button">Back to home</string>
+    <string name="dummy_content">Congratualtion! You are logged in successfully</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_success">Success</string>
+</resources>
